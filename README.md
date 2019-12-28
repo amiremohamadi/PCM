@@ -28,7 +28,7 @@ make
 
 And to see the result:
 
-`dmesg`
+`dmesg --follow`
 
 ## Maintainer
 [@amiremohamadi](https://github.com/amiremohamadi)
